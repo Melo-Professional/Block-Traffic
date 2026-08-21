@@ -1,3 +1,12 @@
+
+> [!TIP]
+>**checkout my other project [Internet-Blocker](https://github.com/Melo-Professional/Internet-Blocker) with lots of improvements and features**
+
+
+
+THIS WILL NOT BE UPDATED!
+
+
 # Block Traffic
 A small program to block network traffic from any active window.
 
@@ -10,9 +19,6 @@ It will place an icon at system tray where you can set your hotkey and time leng
 
 Just download and run `Block Traffic.exe`. Its a portable compilation. No need to install.
 Alternatively I provided the source code if you wish to take a look.
-
-> [!TIP]
->**checkout my other project [Internet-Blocker](https://github.com/Melo-Professional/Internet-Blocker) with lots of improvements and features**
 
 
 ###### Credits
